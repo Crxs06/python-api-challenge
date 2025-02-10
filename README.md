@@ -5,13 +5,13 @@ This project utilizes Python APIs, data visualization, and geospatial mapping to
 WeatherPy - Analyzing weather trends using OpenWeatherMap API.
 VacationPy - Visualizing vacation spots based on weather conditions using the Geoapify API and geoViews library.
 
-Technologies Used
-Python
-Jupyter Notebook
-Pandas
-Matplotlib
-SciPy
-ChatGPT
+- Technologies Used
+- Python
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- SciPy
+- ChatGPT
 
 Part 1: WeatherPy
 In this section, we retrieve weather data for 500+ cities worldwide using the OpenWeatherMap API. We then analyze the relationships between latitude and various weather conditions.
